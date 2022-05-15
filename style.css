@@ -967,7 +967,7 @@ section {
 	}
 
 	section:last-child {
-		min-height: 80vh;
+		min-height: 60vh;
 	}
 
 	.copyright {
