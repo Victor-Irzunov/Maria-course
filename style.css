@@ -890,6 +890,10 @@ section {
 		right: -10px;
 	}
 
+	.home-bu {
+		background-position-x: 30%;
+	}
+
 	.home-article h1 {
 		font-size: 7.5vw;
 	}
