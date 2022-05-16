@@ -203,6 +203,7 @@ q {
 	background-color: #2AA5A0;
 	background-image: linear-gradient(90deg, #6dd5ed, #2193b0);
 	-webkit-background-clip: text;
+	background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
 
