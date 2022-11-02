@@ -347,14 +347,21 @@ footer {
 
 section {
 	width: 100%;
-	min-height: 100vh;
+	/* min-height: 100vh; */
 	display: flex;
+	margin-top: 2em;
 }
 
 #home {
 	align-items: center;
+	min-height: 100vh;
 }
-
+#presenters{
+	margin-bottom: 3em;
+}
+#сost{
+	margin-bottom: 2em;
+}
 .home-bu {
 	position: fixed;
 	top: 0;
